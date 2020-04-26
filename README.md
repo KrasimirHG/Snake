@@ -1,2 +1,2 @@
 # Snake
-the good old game
+The good old game from Nokia 3310
